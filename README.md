@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Origem — Módulo de Recomendação com IA
 
 ## 1. Descrição do projeto
@@ -168,3 +169,7 @@ Invoke-RestMethod -Uri "http://localhost:3000/recomendar" -Method Post -ContentT
 ## 8. Reprodutibilidade
 
 Para reproduzir o projeto do zero, clone o repositório, instale as dependências com `uv sync`, execute `treino.py` e inicie o serviço BentoML. Em seguida, execute os comandos de teste desta documentação.
+=======
+# recomendador-bentoml-Manuali
+Projeto da materia de IA
+>>>>>>> d22d9bd1a00fd833e903164256e7dfc9e3cbcdcc
