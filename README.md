@@ -1,9 +1,8 @@
 ## Grupo
- -Gabriel Barbosa
- -Diogo Silas
- -Rafael Aimberê
- -Marcello Augusto
- -João Vinícius
+ - Gabriel Barbosa
+ - Rafael Aimberê
+ - Marcello Augusto
+ - João Vinícius
 
 # Origem — Módulo de Recomendação com IA
 
