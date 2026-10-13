@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+## Grupo
+ -Gabriel Barbosa
+ -Diogo Silas
+ -Rafael Aimberê
+ -Marcello Augusto
+ -João Vinícius
+
 # Origem — Módulo de Recomendação com IA
 
 ## 1. Descrição do projeto
