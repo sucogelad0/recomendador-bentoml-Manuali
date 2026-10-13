@@ -1,5 +1,6 @@
 ## Grupo
  - Gabriel Barbosa
+ - Diogo Silas
  - Rafael Aimberê
  - Marcello Augusto
  - João Vinícius
